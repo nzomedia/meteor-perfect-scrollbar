@@ -1,10 +1,10 @@
 # Perfect Scrollbar
 
-https://noraesae.github.io/perfect-scrollbar/ packaged for **Meteor**
+https://noraesae.github.io/perfect-scrollbar/ version 0.6.16 packaged for **Meteor**
 
 
 ```
-meteor add keepnox:perfect-scrollbar
+meteor add nzomedia:perfect-scrollbar
 ```
 ___
 
@@ -32,3 +32,4 @@ $(function() {
   height: 200px; // Optional
 }
 ```
+
